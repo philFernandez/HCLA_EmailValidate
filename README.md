@@ -10,4 +10,4 @@
 exposes an api for validating email addresses.
 
 * `EmailValidatorDriver.java` is a test class with `main` method entry point. This
-demonstrates the `EmailValidatorDriver.java` class.
+demonstrates the `EmailValidator`.
